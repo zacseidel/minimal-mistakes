@@ -9,9 +9,8 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ## Daily Mail
 
-> 
-Never forget a birthday again.
->
+ 
+>Never forget a birthday again.
 
 I recently created a simple daily mail application running on github to remind me about upcoming birthdays.  It's pretty good!  I wanted to share it with you.
 
